@@ -12,10 +12,10 @@ const TOKEN = process.env.TOKEN;
 })*/
 
 const con = mysql.createConnection({
-    host: "sql11.freemysqlhosting.net",
-    user: "sql11469708",
-    password: "fgzTVPzMSL",
-    database: "sql11469708"
+    host: "remotemysql.com",
+    user: "55zlvAo15P",
+    password: "yZO26KoL84",
+    database: "55zlvAo15P"
 })
 
 
