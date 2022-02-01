@@ -1,0 +1,3 @@
+!kick <tag-user>
+!help
+!kayıt <tag_suer>
